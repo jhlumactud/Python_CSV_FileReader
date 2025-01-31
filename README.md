@@ -16,3 +16,4 @@ Transfer data from Local Directory through API
 5. Click start to read latest CSV file.
 6. CSV data will be posted to your RestApi url.
 7. The app will always running and waiting for the new csv file.
+8. App also have logs to show every CSV file processed and automatically delete every 7 days.
