@@ -14,5 +14,5 @@ Transfer data from Local Directory through API
     pip pyinstaller --noconsole app_name.py
 4. Browse directory to read CSV file.
 5. Click start to read latest CSV file.
-6. CSV data will be posted on the your Rest APi.
+6. CSV data will be posted to your RestApi url.
 7. The app will always running and waiting for the new csv file.
